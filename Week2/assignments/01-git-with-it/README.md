@@ -35,7 +35,6 @@ Start to get familiar with GitHub by completing some common tasks.
 ### Stretch Tasks
 
 - [ ] Incorporate an image into your student info section
-- [ ] Make some changes to the `main.css` file and submit a pull request for that
 - [ ] Take a look at additional pull requests and offer feedback
 
 ## Details
