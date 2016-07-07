@@ -3,6 +3,7 @@
 
 ## Overview
 Develop a console application that will tell the user’s fortune based on data received from the user.
+[Example](https://drive.google.com/file/d/0B5A2Jb7LrKtqemNfd2xsUFk5Y28/view)
 
 ## Tasks
 
