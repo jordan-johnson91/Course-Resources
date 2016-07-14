@@ -3,9 +3,8 @@
 (Always subject to change)
 
 - Topics
-  - Data Structures: List
-- Reference Materials
-  - [Lists Slides (In Class)](https://docs.google.com/presentation/d/1aEGGvep8jkHICvCw0ZUbo_u2znBmttO47XHo07YWmDM/edit?usp=sharing)
-- Problems/Projects
-  - Included in In Class Slides
+  - Introduction to Lists
+  - [Slides for Introduction to Lists] (https://docs.google.com/a/wecancodeit.org/presentation/d/1QxqlIIKN7rv_-Bud3t_PPU9RjrPIGCAR9gndzBX-3gg/edit?usp=sharing)
+  - Reviewing of List methods
+  - List exercises
 
