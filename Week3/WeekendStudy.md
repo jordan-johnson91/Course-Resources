@@ -8,7 +8,7 @@
 
 - Optional Project for Practice (Project Description Below)
 
-# Fortune Teller
+# Student Resources Checkout System
 ## Due: N/A
 
 ## Overview
