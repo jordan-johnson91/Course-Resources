@@ -5,6 +5,6 @@
 - Topics
   - Introduction to Project
   - Project Work Day
-  - One-on-One Check-Ins
+  - One-on-One Check-In with Instructor (Optional)
 
 
