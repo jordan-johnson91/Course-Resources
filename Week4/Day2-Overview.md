@@ -10,6 +10,7 @@
 
 - Problems/Projects
   - Exercises in Slides
+  - [Methods Practice Problems](https://docs.google.com/a/wecancodeit.org/presentation/d/1PCziOM-s2T7MU3n9AVP_YKNLyirXO3cqAKLdFnBn9P0/edit?usp=sharing)
 
 
 
