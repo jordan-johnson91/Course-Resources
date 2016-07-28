@@ -25,11 +25,12 @@
 - Week 4
   - Project Week
 - Week 5
+  - Project work
   - Inheritance
-  - TDD
-  - Exceptions and File I/O
 - Week 6
-  - Project Week
+  - Inheritance
+  - Exceptions and File I/O
+  - Project work
 - Week 7
   - HTML
   - CSS
@@ -62,6 +63,7 @@
   - Project Week
 - Week 17
   - Advanced MVC
+  - TDD
 - Weeks 18-22
   - Final Project
   - Scrum
