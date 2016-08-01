@@ -1,0 +1,94 @@
+## Interfaces
+
+Interfaces are agreed upon boundaries between different objects.
+
+E.g., microwaves have interfaces through the knob or buttons, and when you make a request of the microwave through the interface, it does something.
+
+All automobiles might have an interface consisting of steering wheel, gas pedal, brake pedal as inputs, and speedometer, fuel gauge, odometer as outputs. However, different cars may have different implementation details for how these inputs and outputs are processed.
+
+Interfaces are kind of like a vague idea of an abstract class - if you define a particular interface, you define the methods that are going to be used to interact with any class that implements the given interface. Every implementing class **must** override all the methods in the interface with `public` methods.
+
+Example:
+
+```cs
+
+public interface IFileWriter
+{
+  string Extension { get; }
+  void WriteLine(string line);
+  void Save(string filename);
+}
+
+public class TextFileWriter : IFileWriter
+{
+  private StringBuilder sb = new StringBuilder();
+
+  public string Extension { get { return ".txt"; } }
+  public void WriteLine(string line)
+  {
+    sb.Append(line);
+    sb.Append("\n");
+  }
+
+  public void Save(string filename)
+  {
+    // TODO
+  }
+}
+
+public class TextFileWriter : IFileWriter
+{
+  private StringBuilder sb = new StringBuilder();
+
+  public string Extension { get { return ".txt"; } }
+  public void WriteLine(string line)
+  {
+    sb.Append("<p>");
+    sb.Append(line);
+    sb.Append("</p>");
+    sb.Append("\n");
+  }
+
+  public void Save(string filename)
+  {
+    // TODO
+  }
+}
+```
+
+### IEnumerable
+
+`IEnumerable` is an awesome interface that arrays implement. It lets us use `foreach` to go over the elements of an array, like this:
+
+```cs
+foreach (Student s in Students)
+{
+  Console.WriteLine(s);
+}
+```
+
+Even shorter than a normal `for` loop, and much clearer if all we want to do is do something for _each_ value in an array.
+
+But arrays aren't the only things that implement IEnumerable...
+
+(at this point, if you skipped Lists, go over Lists!)
+
+## Lists
+
+- Arrays are inflexible
+- Let's write a class that will let us have a flexible array of ints
+  - `Add()`
+  - `Get()`
+  - `Remove()`
+- Except now let's make that work for strings too
+  - We could make the array and all methods work with `object` type...
+  - Or we can use generics!
+
+```cs
+List<Student> Students = new List<Student>();
+Students.Add(new Student("Barbara Bellflower"));
+Console.WriteLine(Students[0].FirstName);
+Students.RemoveAt(0);
+```
+
+`List` implements `IEnumerable`
