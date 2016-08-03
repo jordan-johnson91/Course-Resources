@@ -2,7 +2,7 @@
 ##Due: Monday, August 8, 2016 by 8:00 AM 
 [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScRhWuvH7mxDMlQv-zb_LAqi6qUTZF_xzBGGYHghqWdyp9T1g/viewform)
 ##Directions
-Update your console application to manage a client’s bank account. For now, the application will have only one client that is hard-coded into the system.
+You will be designing a console application to manage a client’s bank account. For now, the application will have only one client that is hard-coded into the system.
 
 ##Tasks
 ###Menu Items
