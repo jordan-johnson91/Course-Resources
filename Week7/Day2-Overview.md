@@ -4,8 +4,12 @@
 
 - Topics
   - HTML
+   -Divs and Spans
+   -Blocks and elements
   -  CSS
 - Reference Materials
+  - [div](http://www.w3schools.com/tags/tag_div.asp)
+  - [span](http://www.w3schools.com/tags/tag_span.asp)
   - [Intro to CSS](https://docs.google.com/presentation/d/1y1mQfYIBUxZs_G2bxknEPqfG95GtIH9aa94wickWSeA/edit?usp=sharing)
   
 - Problems/Projects
