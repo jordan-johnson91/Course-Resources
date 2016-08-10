@@ -34,9 +34,9 @@
 - Week 7
   - HTML
   - CSS
+- Week 8
   - Bootstrap
   - Razor
-- Week 8
   - Project Week
 - Week 9
   - MVC
