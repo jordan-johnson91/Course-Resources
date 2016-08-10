@@ -37,7 +37,7 @@
 - Week 8
   - Bootstrap
   - Razor
-  - Project Week
+  - Project work
 - Week 9
   - MVC
   - Code First Model Design
