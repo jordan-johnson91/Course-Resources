@@ -14,9 +14,6 @@ This project is due **Monday, 8/22/2016, at 8:00 AM**. **This project is not gra
 
 ### Required Tasks
 
-- [ ] Yak Shaving
-  - [ ] Create a project/repository called `tuscany-villa`
-  - [ ] Create a README.md file explaining what this project will involve
 - [ ] HTML
   - [ ] Create the base HTML in a file called `index.html`
   - [ ] Use semantic elements where appropriate
