@@ -16,7 +16,7 @@ This project is due **Monday, 8/22/2016, at 8:00 AM**. **This project is not gra
 
 - [ ] HTML
   - [ ] Create the base HTML in a file called `index.html`
-  - [ ] Use semantic elements where appropriate
+  - [ ] Use [semantic elements](http://www.w3schools.com/html/html5_semantic_elements.asp) where appropriate
 - [ ] Bootstrap
   - [ ] Use existing bootstrap classes to develop the mobile version first
   - [ ] Ensure that the layout is responsive - test it in different views
