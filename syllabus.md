@@ -36,10 +36,10 @@
   - CSS
 - Week 8
   - Bootstrap
-  - Razor
   - Project work
 - Week 9
   - MVC
+  - Razor
   - Code First Model Design
 - Week 10
   - Project Week
