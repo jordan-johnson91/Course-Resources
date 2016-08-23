@@ -4,8 +4,6 @@
 
 - Topics
   - Review Tuscany Villa Project
-  -  Intro to MVC (Tentative)
   
-- Reference Materials
-
-
+- Problems/Projects
+  -In class Bootstrap pair programming
