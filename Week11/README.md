@@ -11,7 +11,7 @@ _(Always subject to change)_
 - Topics
   - SQL - `SELECT`
 - Problems/Projects
-  - SQL Zookeeper
+  - [SQL Zookeeper](Assignments/01-sql-zookeeper)
 
 # Day 3
 - Topics
