@@ -39,6 +39,15 @@ Explore the aggregate functions `SUM` and `COUNT`:
 - [5 SUM and COUNT](http://sqlzoo.net/wiki/SUM_and_COUNT)
 - [more the same](http://sqlzoo.net/wiki/The_nobel_table_can_be_used_to_practice_more_SUM_and_COUNT_functions.)
 
+Link tables together with `JOIN`:
+
+- [6 JOIN](http://sqlzoo.net/wiki/The_JOIN_operation)
+- [7 More JOIN operations](http://sqlzoo.net/wiki/More_JOIN_operations)
+
+Not as exciting but still important:
+
+- [INSERT and DELETE reference](http://sqlzoo.net/wiki/INSERT_and_DELETE_Reference)
+- [DATE and TIME reference](http://sqlzoo.net/wiki/DATE_and_TIME_Reference)
 
 ## Hints
 
