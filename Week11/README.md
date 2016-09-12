@@ -15,6 +15,4 @@ _(Always subject to change)_
 
 # Day 3
 - Topics
-  - Database Design
-- Problems/Projects
-  - Pair Programming Databse First MVC
+  - SQL - More `SELECT`
