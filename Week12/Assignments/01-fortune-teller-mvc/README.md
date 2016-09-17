@@ -4,6 +4,10 @@
 
 Create a SQL database and table(s) to represent the information a fortune teller would gather, and create the Visual Studio MVC project to allow you to work with/present the information in the database.
 
+## Due
+
+This project is due **Monday, 9/19/2016, at 8:00 AM**. Submission link: https://docs.google.com/a/wecancodeit.org/forms/d/12eR2bFSsjmzP1WS5a2WlGsd9nWVYvj251Iffc5JLP9Y/edit
+
 ## Tasks
 
 ### Required Tasks
@@ -29,6 +33,7 @@ Create a SQL database and table(s) to represent the information a fortune teller
   - [ ] Add the database schema `SQL` file to your project
 - [ ] Fortune (`Details`) page
   - [ ] Modify the `Details` action (controller method) and view to display all the fortune information, based on the information in the `Customers` table
+  - [ ] Make sure that when you **create** a customer, that it automatically redirects you to the _details_ page, where it shows the customer's fortune
 
 ### Stretch Tasks
 
