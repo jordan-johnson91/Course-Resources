@@ -22,6 +22,7 @@ Create a web application for managing the contents of your wardrobe. The app wil
   - [ ] Shoes
   - [ ] Accessories
   - [ ] Photo properly included where appropriate (index/detail)
+  - [ ] Outfit
   - [ ] /Home/Index.cshtml should be updated for your app
 
 ### Stretch Tasks
