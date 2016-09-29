@@ -5,7 +5,7 @@
 - Topics
   - Bootstrap
   -  CSS
-  -  [Responsive Web Design and Bootstrap](https://docs.google.com/a/wecancodeit.org/presentation/d/1BAHrkWWnF0gcGRMoii8iYbwQVK4OjS3yC1B8M_zVwaY/edit?usp=sharing)
+  -  [Life Is Strange Bootstrap Exercise](https://docs.google.com/a/wecancodeit.org/presentation/d/1F1aHwgVWd4eZ3j3HuSqlntrzcVEFIKuLS97jFum6HuY/edit?usp=sharing)
   
 - Reference Materials
   - [Responsive Web Design and Bootstrap](https://github.com/laurenholloway/Life-Is-Strange)
