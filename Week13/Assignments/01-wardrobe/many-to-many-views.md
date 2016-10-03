@@ -30,7 +30,8 @@ public class Outfit
     public virtual Shoe Shoe { get; set; }
 
     public virtual ICollection<Accessory> Accessories { get; set; }
-}```
+}
+```
 
 First, create a folder called `ViewModels`, and add a class called `OutfitViewModel`.
 
