@@ -4,6 +4,10 @@
 
 Create a web application for managing the contents of your wardrobe. The app will allow you to add, edit, view, and delete items in your closet.
 
+## Due
+
+This project is due at 8:00 AM on Tuesday, October 4.
+
 ## Tasks
 
 ### Required Tasks
