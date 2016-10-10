@@ -8,5 +8,4 @@ _(Always subject to change)_
 # Day 3
 
 # Day 4
-- **CODE FREEZE**
 - Complete Sprint 4
