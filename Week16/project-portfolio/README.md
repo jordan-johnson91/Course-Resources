@@ -7,6 +7,9 @@ Create a static portfolio webpage highlighting your work so far. Focus first on 
 ## Due
 
 This project is due **Monday, 10/17/2016, at 9:00 AM**.
+
+Turn it in via the [homework submission link](https://docs.google.com/a/wecancodeit.org/forms/d/1sPo-HD1L6kP6ExWk2t8QQ_PHSZvvNhxIhpcWoySwp9M/edit).
+
 ## Tasks
 
 ### Required Tasks
