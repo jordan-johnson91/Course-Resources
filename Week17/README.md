@@ -4,8 +4,11 @@ _(Always subject to change)_
 - Topics
   - Authentication
   - Deployment
+    - Static
+    - Dynamic
 - Reading
   - [MVC 5 App with OAuth2](https://www.asp.net/mvc/overview/security/create-an-aspnet-mvc-5-app-with-facebook-and-google-oauth2-and-openid-sign-on)
+  - [GitHub Pages](https://pages.github.com/)
   - [Deploying to AppHarbor](hosting_mvc_appharbor.md)
 
 # Day 2
